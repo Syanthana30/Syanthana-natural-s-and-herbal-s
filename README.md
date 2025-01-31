@@ -1,3 +1,4 @@
+
 <h1>Syathana Natural's and Herbal's</h1>
 
 <div class="product">
@@ -23,30 +24,20 @@
   <p>Phone: 9494992362</p>
     <p> Instagram : Syanthana_nature_herbals</p>
 </div>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-</head>
-<body>
-    <h1>Herbal Oil </h>
+
+  <h1>Herbal Oil </h>
     <nav>
       <a href="index.html">Herbal</a>  <a href="page2.html"> nourishes the hairfall </a> </nav>
        <h2>About Us</h2>  
    <p> Hairvana Oil is made with a special blend of natural ingredients to nourish and strengthen your hair. We believe in the power of nature to promote healthy hair growth and shine.</p>
 
-  
-
    <h3>Our Mission</h3>
     <p>To  are everyone get rid of hairfall </p>
-
-  </body>
-</html>
-
-   
-   
+    
   <h3> we are available in whatsapp Instagram 
   for order purpose please contact for above number and Dm for our hove Instagram also </h3>
