@@ -1,8 +1,8 @@
-<h1>Hairvanà </h1>
+<h1>Syathana Natural's and Herbal's</h1> </h1>
 
 <div class="product">
-    <img id="product-image" src="IMG-20250131-WA0002.jpg" alt="Hairvana Oil"> <input type="filw" id="image-upload" accept="image/*"> <label for="image-upload">Upload Image</label>
-    <h2>Hairvana Oil botel capacity </h2>
+    <img id="product-image" src="IMG-20250131-WA0002.jpg" alt="herbal Oil"> <input type="filw" id="image-upload" accept="image/*"> <label for="image-upload"> </label>
+    <h2>herbal  Oil botel capacity </h2>
     <div class="sizes">
       <label><input type="radio" name="size" value="10000">we are currently available with current options 
      </div>
@@ -21,7 +21,8 @@
       </div>
 <div class="contact-info">
   <h2>Contact Us</h2>
-  <p>Phone: 9494952109</p>
+  <p>Phone: 9494992362</p>
+    <p> Instagram : Syanthana_nature_herbals</p>
 </div>
 
 <!DOCTYPE html>
@@ -32,15 +33,13 @@
   
 </head>
 <body>
-    <h1>Hairvana Oil </h>
+    <h1>Herbal Oil </h>
     <nav>
-      <a href="index.html">Hairvanà</a>  <a href="page2.html"> nourishes the hairfall </a> </nav>
+      <a href="index.html">Herbal</a>  <a href="page2.html"> nourishes the hairfall </a> </nav>
        <h2>About Us</h2>  
    <p> Hairvana Oil is made with a special blend of natural ingredients to nourish and strengthen your hair. We believe in the power of nature to promote healthy hair growth and shine.</p>
 
-   <h3>Our Story</h3>
-  <p> actually we made it for ourselves after using this for many months by seeing the shocking result Our neighbors and relatives and friends asked us to make it for them then we got idea of making 9t for everyone 
-  this is how our company started </p>
+  
 
    <h3>Our Mission</h3>
     <p>To  are everyone get rid of hairfall </p>
@@ -50,6 +49,6 @@
 
    
    
-   we are available in whatsapp Instagram 
-  for order purpose please contact for above number 
+  <h3> we are available in whatsapp Instagram 
+  for order purpose please contact for above number and Dm for our hove Instagram also </h3>
 
