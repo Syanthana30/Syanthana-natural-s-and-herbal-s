@@ -6,26 +6,29 @@
     <div class="sizes">
       <label><input type="radio" name="size" value="10000">we are currently available with current options 
      </div>
-          <div class="sizes>
+       
+<div class="sizes>
        <label><input type="radio" name="size" value="1000"> 1. 1 Litre</label>
           </div>
-    <div class="sizes>
+
+<div class="sizes>
         <label><input type="radio" name="size" value="500"> 2. 500 ml</label>
         </div>
-    </div>
+  
+</div>
           <label><input type="radio" name="size" value="200"> 3. 200 ml</label>
       </div>
-        <div class="sizes>
+       
+<div class="sizes>
         <label><input type="radio" name="size" value="100"> 4. 100 ml</label>
         </div>
-      </div>
+    
 <div class="contact-info">
   <h2>Contact Us</h2>
   <p>Phone: 9494992362</p>
     <p> Instagram : Syanthana_nature_herbals</p>
-</div>
-<!DOCTYPE html>
-<html lang="en">
+</div> 
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
