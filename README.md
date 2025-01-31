@@ -1,7 +1,6 @@
-<h1>Syathana Natural's and Herbal's</h1> </h1>
+<h1>Syathana Natural's and Herbal's</h1>
 
 <div class="product">
-    <img id="product-image" src="IMG-20250131-WA0002.jpg" alt="herbal Oil"> <input type="filw" id="image-upload" accept="image/*"> <label for="image-upload"> </label>
     <h2>herbal  Oil botel capacity </h2>
     <div class="sizes">
       <label><input type="radio" name="size" value="10000">we are currently available with current options 
